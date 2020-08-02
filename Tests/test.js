@@ -1,5 +1,5 @@
 var coolPage = {}
-
+// LINK TO TEST PLAN: https://docs.google.com/document/d/1X-V2NYXMK8MUhcIzc7ZDG2cB-sDXa7OHMaJpdyzoDwg/edit?usp=sharing
 
 module.exports = {
     beforeEach: browser => {
