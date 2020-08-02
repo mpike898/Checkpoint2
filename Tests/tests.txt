@@ -1,0 +1,91 @@
+*User can sort odd and even numbers*
+
+Description:
+Users are able to add a string of numbers to the odd/even input field and 
+when they submit it should sort the odd and even numbers apart and present them in the corresponding results fields
+
+Setup:
+1. Have a string of numbers ready seperated by commas (1,2,3,4,5,6)
+
+Execution Steps:
+1. Open the application
+2. Input your string of numbers from the setup step into the input field
+3. Click the submit button
+
+Expected Result:
+
+Odd numbers should appear in the odd results and even numbers should appear in the even results
+
+
+----------------------------------------------------------------------------
+
+
+*User can filter objects by their properties in the filter object field*
+
+Description:
+Users can sort through the entire string to find entries that only have certain properties.
+
+Setup:
+1. None
+
+Execution Steps:
+1. Open the application
+2. Input one of the properties contained in the text.  I like to use "hairColor"
+3. click the submit button
+
+
+Expected Result:
+The results field should only show entries that contained the property that you searched by. ( In my case hairColor)
+
+----------------------------------------------------------------------------
+
+
+*User can filter strings by their own partial string*
+
+Description:
+Users can sort a list of names by entering a partial string that's contained in multiple names
+
+Setup:
+1. None
+Execution Steps:
+1. Open the application
+2. Enter your partial string into the input field ( I like to use "Ma" because two of the names have Ma)
+3. Click submit
+Expected Result:
+You should see results in the result field that contained the set of letters that you specified.
+
+----------------------------------------------------------------------------
+
+
+*User can enter text into the palindrome field and see if its a palindrome or not*
+
+Description:
+Users can enter a string into the input field and see if the string they entered is a palindrome or not
+Setup:
+1. Have a palindrome that you'd like to use
+Execution Steps:
+1. Open the application
+2. Input your palindrome from setup into the input field
+3. Click submit
+
+Expected Result:
+If your string was a plaindrome it should return true.  If not it will return false
+
+----------------------------------------------------------------------------
+
+
+*User can input two numbers into the sum field and it will add them together*
+
+Description:
+User can input two numbers into the sum field and it will add them together
+Setup:
+1. have two numbers
+
+Execution Steps:
+1. Open the application
+2. Enter your first number into the first input field
+3. Enter your second number into the second input field
+4. Click submit
+
+Expected Result:
+The numbers will be added together and displayed in the sum results field.
